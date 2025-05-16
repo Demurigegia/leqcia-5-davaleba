@@ -1,0 +1,94 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#photo1 {
+	vertical-align: middle;
+	margin-top: 54px;
+	margin-bottom: 50px;
+	margin-left: 92px;
+}
+
+nav, ul, li {
+	display: inline-block;
+}
+
+#active {
+	size: 26px;
+	color: #4E6FAE;
+	margin-left: 60px;
+	margin-top: 66px;
+	text-decoration: none;
+	font-weight: 700;
+	display: inline;
+
+}
+
+a {
+	size: 26px;
+	color: #8D81FF;
+	margin-left: 87px;
+	margin-top: 66px;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 24px;
+}
+
+main {
+    width: 100%;
+    height: 735px;
+    background-color: #E7E7E7;
+    padding: 90px 0px 0px 160px;
+    box-sizing: border-box;
+}
+
+.otkutxedi {
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 30px;
+}
+h1 {
+	 font-size: 36px;
+   font-weight: 700;
+   color: #4E6FAE;
+   margin-bottom: 20px;
+}
+
+p {
+	font-size: 20px;
+  font-weight: 400;
+  color: #3F4145;
+  margin-bottom: 20px;	
+}
+
+#map {
+	width: 944px;
+	height: 549px;
+	margin-left: 40px;
+}
+
+#Facebook {
+	height: 50px;
+	margin-left: 96px;
+	margin-top: 104px;
+	display: inline-block;
+	margin-bottom: 180px;
+}
+
+#xazi2 {
+	height: 48px;
+	width: 2px;
+	background-color: #5012D5;
+	margin: 0px 18px;
+	display: inline-block;
+	margin-left: 41px;
+	margin-bottom: 180px;
+}
+
+#Youtube {
+	height: 49px;
+	margin-left: 41px;
+	display: inline-block;
+	margin-bottom: 180px;
+}

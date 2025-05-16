@@ -1,0 +1,130 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin-left: 52px;
+}
+
+#photo1 {
+	vertical-align: middle;
+	margin-top: 54px;
+	margin-bottom: 50px;
+}
+
+nav, ul, li {
+	display: inline-block;
+}
+
+#active {
+	size: 26px;
+	color: #4E6FAE;
+	margin-left: 60px;
+	margin-top: 66px;
+	text-decoration: none;
+	font-weight: 700;
+	display: inline;
+}
+
+a {
+	size: 26px;
+	color: #8D81FF;
+	margin-left: 87px;
+	margin-top: 66px;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 24px;
+}
+
+.cifrebi {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	padding: 12px;
+	box-sizing: border-box;
+	margin-top: 44px;
+}
+
+.ricxvebi {
+	font-weight: 400;
+	font-size: 24px;
+	color: #84FF81;
+	margin-top: 155px;
+}
+
+.tveebi {
+	margin-top: 26px;
+	margin-bottom: 8px;
+	color: #8D81FF;
+	font-weight: 400;
+}
+
+#sataurebi {
+	margin-top: 8px;
+	font-size: 20px;
+	font-weight: 700;
+	color: #4E6FAE;
+}
+
+.potoebi {
+	margin-top: 13px;
+}
+
+.text {
+	display: inline-block;
+	margin-block: 10px;
+	color: #4E6FAE;
+	font-weight: 400;
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+	margin-left: 66px;
+}
+
+.texsti {
+	font-family: "BPG Square", sans-serif;
+}
+
+.texsti2 {
+	font-family: "ALK Life", sans-serif;
+}
+ 
+.teqstebi {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+#boloteqsti {
+	margin-top: 32px;
+	font-weight: 400;
+	font-size: 16px;
+	color: #4E6FAE;
+	display: block;
+	padding-right: 1021px;
+	font-family: "BPG Nostalgia", sans-serif;
+}
+
+#Facebook {
+	height: 50px;
+	margin-top: 143px;
+	display: inline-block;
+	margin-bottom: 286px;
+}
+
+#xazi2 {
+	height: 48px;
+	width: 2px;
+	background-color: #5012D5;
+	margin: 0px 18px;
+	display: inline-block;
+	margin-left: 41px;
+	margin-bottom: 286px;
+}
+
+#Youtube {
+	height: 49px;
+	margin-left: 41px;
+	display: inline-block;
+	margin-bottom: 286px;
+}
